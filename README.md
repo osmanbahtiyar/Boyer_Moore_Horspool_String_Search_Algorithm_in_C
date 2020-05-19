@@ -14,7 +14,7 @@ I used the C programming language in this project because it is a low-level lang
 
 ## How the program works
 
-- The program scans given txt file, finds the given pattern in the text and replaces it with the given pattern.
+- The program scans the given txt file, finds the given pattern in the text, and replaces it with the given pattern.
 
 ## Screenshots
 
